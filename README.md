@@ -48,7 +48,7 @@ Uses the 1983 Nellie Massacre in Assam to argue that security studies must recko
 Policy & Political Commentary
 
 Digital Authoritarianism in Southeast Asia: Emerging Trends
-Published in: Institute of Peace and Conflict Studies (IPCS)**
+Published in: Institute of Peace and Conflict Studies (IPCS)
 Analysis of how governments in Southeast Asia deploy digital surveillance and platform control as tools of political repression.
 [🔗 Read on IPCS](https://www.ipcs.org/comm_select.php?articleNo=5808)
 
